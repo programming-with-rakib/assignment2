@@ -1,0 +1,106 @@
+@media screen and (max-width:1024px) {
+  .h-text{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 70px;
+    font-weight: 700;
+    color: #393939;
+    text-transform: uppercase;
+  }
+  .w-img-box{
+    width: 280px;
+    background-color: #e6e6e6;
+    margin: 20px auto;
+    border-radius: 20px;
+  }
+  input[type=text] {
+    border: none;
+    border-bottom: 1px solid #f29d03;
+    width: 370px;
+    outline: none;
+   }   
+       
+}
+
+
+@media screen and (max-width:980px) {
+  .h-text{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+    font-weight: 700;
+    color: #393939;
+    text-transform: uppercase;
+  }
+   .header .nav-menu{
+        display: none;
+    }
+    
+   .w-img-box{
+     width: 200px;
+     background-color: #e6e6e6;
+     margin: 20px auto;
+     border-radius: 20px;
+  }
+    .b-box-col{
+        margin-top: 80px;
+    }
+    .b-c-box{
+       width: 350px;
+       height: 100px;
+       
+   }
+    .banner-box .b-img{
+     width: 50px;
+     margin-right: 30px;
+     margin-top: 10px;
+}
+    .banner-box h3{
+    font-size: 16px;
+    font-weight: 700;
+   } 
+    .banner-box .h-p{
+        font-size: 14px;
+    }
+    .banner-box .xml-img{
+        margin-top: 150px !important;
+    }
+    .shipping-section i{
+    float: left;
+    font-size: 20px;
+    width: 20px;
+    height: 60px;
+    margin-right: 10px;
+    color: #525252;
+}
+.shipping-section h3{
+    font-size: 14px;
+    font-weight: 500;
+    color: #111;
+}
+.shipping-section h4{
+    font-size: 14px;
+    color: #afafaf;
+    font-weight: 400;
+}
+ input[type=text] {
+    border: none;
+    border-bottom: 1px solid #f29d03;
+    width: 270px;
+    outline: none;
+   } 
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
